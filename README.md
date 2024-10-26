@@ -18,7 +18,7 @@ This open-source web application allows users to upload PDF files and create a c
 ## Setup and Installation
 
 1. Clone the repository:   ```
-   git clone https://github.com/your-username/pdf-to-chatbot.git
+   git clone https://github.com/BelongUnity/pdf-to-chatbot.git
    cd pdf-to-chatbot   ```
 
 2. Install dependencies:   ```
